@@ -119,7 +119,7 @@ click==8.1.3 \
     # via
     #   black
     #   curlylint
-cryptography==41.0.1 \
+cryptography==41.0.2 \
     --hash=sha256:059e348f9a3c1950937e1b5d7ba1f8e968508ab181e75fc32b879452f08356db \
     --hash=sha256:1a5472d40c8f8e91ff7a3d8ac6dfa363d8e3138b961529c996f3e2df0c7a411a \
     --hash=sha256:1a8e6c2de6fbbcc5e14fd27fb24414507cb3333198ea9ab1258d916f00bc3039 \
