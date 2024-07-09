@@ -406,3 +406,4 @@ setuptools==68.1.2 \
     #   zope-event
     #   zope-interface
     #   zope-schema
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
