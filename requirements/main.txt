@@ -1826,3 +1826,4 @@ setuptools==68.1.2 \
     #   zope-deprecation
     #   zope-interface
     #   zope-sqlalchemy
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
