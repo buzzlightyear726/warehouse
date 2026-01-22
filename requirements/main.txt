@@ -1236,7 +1236,7 @@ psycopg[c]==3.1.10 \
 psycopg-c==3.1.10 \
     --hash=sha256:0c923cfac7a8a3796c915c253f51b7c667358492924cbccecc18df9e79b103e9
     # via psycopg
-pyasn1==0.5.0 \
+pyasn1==0.6.2 \
     --hash=sha256:87a2121042a1ac9358cabcaf1d07680ff97ee6404333bacca15f76aa8ad01a57 \
     --hash=sha256:97b7290ca68e62a832558ec3976f15cbf911bf5d7c7039d8b861c2a0ece69fde
     # via
